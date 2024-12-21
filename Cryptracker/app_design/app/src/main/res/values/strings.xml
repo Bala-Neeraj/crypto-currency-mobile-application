@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="string_home" />
+    <string name="navigation_drawer_open">open navigation drwaer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="string_string_home" />
+    <string name="string_string_string_home" />
+</resources>
